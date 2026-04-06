@@ -67,13 +67,13 @@ My mission is to transform complex, large-scale data into **actionable insights*
 
 ## 📊 GitHub Stats
 
-![Sahfri's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmousa75\&show_icons=true\&theme=default)
+![Mohamad Sahfri GitHub stats](https://github-readme-stats.vercel.app/api?username=dmousa75&show_icons=true&theme=default)
 
 ---
 
 ## 🔥 Vision
 
-> *"Turning data into direction — empowering better decisions in politics, society, and beyond."*
+> *"Turning data into direction — empowering better decisions in politics, society, and beyond, shaping the future"*
 
 ---
 
