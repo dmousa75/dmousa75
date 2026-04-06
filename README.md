@@ -2,8 +2,8 @@
 
 🚀 **Data Scientist | Political & Social Analyst | Strategic Thinker**
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername\&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=dmousa75&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/dmousa75?style=social)
 
 ---
 
