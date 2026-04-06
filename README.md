@@ -67,7 +67,7 @@ My mission is to transform complex, large-scale data into **actionable insights*
 
 ## 📊 GitHub Stats
 
-![Sahfri's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=default)
+![Sahfri's GitHub stats](https://github-readme-stats.vercel.app/api?username=dmousa75\&show_icons=true\&theme=default)
 
 ---
 
